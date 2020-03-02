@@ -1,0 +1,3 @@
+child
+child changes made for 1000 files
+this in my child branch
